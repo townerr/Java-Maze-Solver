@@ -5,7 +5,5 @@ Program will open the maze text file and solve the maze if possible. Once solved
 
 First 2 lines of text file or the length and the width of the maze.
 Then the maze follows.
-# = Wall
-s = start
-e = end
-. = open square
+
+![alt text](https://github.com/townerr/Java-Maze-Solver/blob/master/mazegif.gif "Example Run")
