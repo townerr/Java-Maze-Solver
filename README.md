@@ -9,4 +9,5 @@
 + e = exit
 + . = path
 
+## Demo
 ![alt text](https://github.com/townerr/Java-Maze-Solver/blob/master/mazegif.gif "Example Run")
